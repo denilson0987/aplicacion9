@@ -7,10 +7,10 @@
 		 
     <!--versionCode is Optional And Android Only-->
 		 
-	<name>Acciones</name>
+	<name>App9 Geolocalizacion y Acelerometro</name>
 		 
 	<description>
-	    Aplicacion de varias acciones
+	  Aplicacion que te muestra la Geolocalizacion del Dispositivo de acuerdo a sus coordenadas
 	</description>
 		  
 	<preference name="phonegap-version" value="3.1.0" />
